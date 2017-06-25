@@ -1,0 +1,63 @@
+
+table
+{
+    border: solid 1px #6678b1;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 20px;
+    margin: 45px;
+    width: 480px;
+    border-collapse: separate;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 2em;
+    background-color: snow;
+}
+table th, td
+{
+    font-weight: normal;
+    padding: 10px 8px;
+    border: 2px solid #6678b1;
+    vertical-align: middle;
+    height: 100px;
+    width: 100%;
+
+}
+table td
+{
+    padding: 9px 8px 0px 8px;
+    vertical-align: middle;
+
+}
+
+.fontBig
+{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#company
+{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #0000FF;
+    background-color: #00FFFF;
+}
+
+.place
+{
+    font-weight: bolder;
+    font-size: 40px;
+
+}
+
+.fontMedium
+{
+    font-size: 20px;
+}
+
+.namePrice
+{
+    font-weight: bolder;
+    font-size: 50px;
+    color: #d43f3a;
+}
